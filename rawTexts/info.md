@@ -1,0 +1,1 @@
+`rawTexts/` dir contains pdf-to-txt parsing result from module `pdf2json` ran in `pdf_validator.js`.

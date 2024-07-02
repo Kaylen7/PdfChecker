@@ -1,0 +1,17 @@
+{
+  "name": "pdf_tools",
+  "version": "1.0.0",
+  "description": "tools for working with pdf in publishing workflow",
+  "main": "pdf_validator.js",
+  "scripts": {
+    "start": "node pdf_validator.js",
+    "dev": "NODE_ENV=debug node --inspect pdf_validator.js"
+  },
+  "author": "sara",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "pdf-parse": "^1.1.1",
+    "pdf2json": "^2.0.2"
+  }
+}

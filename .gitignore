@@ -1,0 +1,6 @@
+node_modules/
+test/
+pdfs/
+*.txt
+.DS_Store
+!pdfs/info.md
