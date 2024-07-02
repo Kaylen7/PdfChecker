@@ -4,3 +4,4 @@ pdfs/
 *.txt
 .DS_Store
 !pdfs/info.md
+!pdfs/OC_Secreto_Ciudad.pdf
